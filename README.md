@@ -1,32 +1,46 @@
-# To-Do List
+# 📝 To-Do List
 
-## Description
-A Python-based To-Do List application designed to help users organize and manage daily tasks efficiently. The application allows users to create tasks, assign priorities, set deadlines, and track task completion status. Task data is stored in CSV files for persistence, enabling users to save and load their task lists easily.
+## 📌 Description
+To-Do List is a Python-based task management application designed to help users organize and manage daily activities efficiently. Users can create tasks, assign priorities, set deadlines, and track completion status. Task information is stored using CSV files for easy saving and loading.
 
-This project aims to improve productivity by providing a simple and user-friendly task management system.
+## ✨ Features
+✔️ Add tasks with title, priority, and deadline  
+✔️ View tasks in an organized list  
+✔️ Mark tasks as completed  
+✔️ Save and load tasks using CSV files  
+✔️ Simple and user-friendly interface  
 
-## Features
-- Add tasks with title, priority, and deadline
-- View tasks in an organized list
-- Mark tasks as completed
-- Save and load tasks using CSV files
-- Simple and easy-to-use interface
+## 🛠️ Technologies Used
+- Python 3.x  
+- Pandas – Task data management  
+- Matplotlib – Optional data visualization  
 
-## Technologies Used
-- Python 3.x
-- Pandas – task data management
-- Matplotlib – optional data visualization
+## 🚀 Installation
 
-## Installation
 ```bash
+# Clone repository
 git clone <repo_url>
+
+# Move into project folder
 cd to-do-list
+
+# Install dependencies
 pip install pandas matplotlib
 ```
 
-## How to Run
+## ▶️ How to Run
+
 ```bash
 python main.py
 ```
 
-## Screenshot
+## 📷 Project Screenshot
+
+![To Do List Output](to-do-list-output.png)
+```
+
+## 👨‍💻 Author
+**Gaddamidi Sai Kiran**
+
+## 📄 License
+Licensed under the **MIT License**.
