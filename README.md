@@ -38,6 +38,8 @@ python main.py
 
 ![To Do List Output](to-do-list-output.png)
 ```
+---
+
 
 ## 👨‍💻 Author
 **Gaddamidi Sai Kiran**
