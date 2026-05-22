@@ -37,7 +37,7 @@ python main.py
 ## 📷 Project Screenshot
 
 ![To Do List Output](to-do-list-output.png)
-```
+
 
 
 
